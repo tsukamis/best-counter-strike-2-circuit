@@ -149,4 +149,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Counter-Strike 2 · Updated 2026-10-29 · Shared under the MIT License*
+*Counter-Strike 2 · Updated 2026-10-30 · Shared under the MIT License*
