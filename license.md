@@ -149,6 +149,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Counter-Strike 2 · Updated 2026-11-10 · Shared under the MIT License*
+*Counter-Strike 2 · Updated 2026-11-12 · Shared under the MIT License*
 
-<!-- rev 2026-11-10 -->
+<!-- rev 2026-11-12 -->
